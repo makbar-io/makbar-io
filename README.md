@@ -1,4 +1,4 @@
-# Mustafa Akbar
+<p align="center" style="font-size: 50px; font-weight: bold;">Mustafa Akbar</p>
 📞 (602) 695-8560 | ✉️ [EmailMe](mailto:makbar.us@outlook.com | 🌐 [LinkedIn](https://linkedin.com/in/Mustafa-Akbar)
 
 ---
@@ -12,7 +12,6 @@ Salt Lake City, UT
 **University of Northern Iowa**  
 Cedar Falls, IA  
 **B.A. Finance** (May 2021)  
-- **Awards**: Dean’s List, Multicultural Legacy Award (2021), Student Employee of the Year (2020), Student Leader of the Month (2019), Servant Leadership Award Nominee (2019)  
 
 ---
 
@@ -90,13 +89,9 @@ _November 2018 – May 2019_
 
 <h2> 🤳 How to reach me:</h2>
 
-[<img align="left" alt="Mustafa Akbar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mustafa Akbar | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
-[<img align="left" alt="Mustafa Akbar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[linkedin]: https://linkedin.com/in/mustafa-akbar
-[x]: https://twitter.com/yourusername <!-- Replace 'yourusername' with your X/Twitter handle -->
-[instagram]: https://x.com/MAkbarUS
+[<img align="left" alt="Mustafa Akbar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/Mustafa-Akbar)
+[<img align="left" alt="Mustafa Akbar | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/yourusername) 
+[<img align="left" alt="Mustafa Akbar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://x.com/MAkbarUS)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
