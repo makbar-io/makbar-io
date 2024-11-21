@@ -1,5 +1,5 @@
 
-### ***Mustafa Akbar***
+##### ***Mustafa Akbar***
 ✉️ [EmailMe](mailto:makbar.us@outlook.com | 🌐 [LinkedIn](https://linkedin.com/in/Mustafa-Akbar)
 
 ## 📄 Resume (Updated: 11/21/2024)
