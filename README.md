@@ -2,7 +2,7 @@
 [📝 Interested in getting to know me more? Download my resume](https://github.com/makbar-io/makbar-io/blob/main/MAkbar_Resume.doc)
 
 ## What Am I Currently Working on? (Updated: 11/21/2024)
----
+
 ## 🖥️ Development Projects
 - **Data Structures & Algorithms Practice** ([GitHub Repo](https://github.com/joshmadakor1/Algorithms-Practice))  
 - **Full Stack Web App** ([Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964))  
@@ -16,7 +16,6 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)  
 - **Python**  
   - [Package Delivery Application](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)  
----
 
 ## 🔑 Certifications
 
@@ -24,14 +23,12 @@
 - **Tools**: Domo BI, Python, Power BI, Tableau, MySQL, Oracle, OneStream, Tableau, Lucid Chart
 
 ## Industry Frameworks
-
+NIST 800-53 Rev5, NIST CSF 2.0, MITRE ATT&CK, COBIT, HIPAA
 
 ## 🏆 Projects & Competitions
 - **Domo-Layton Hackathon**: Achieved 2nd place among 20+ teams by solving a real-world problem using Domo BI within 48 hours.
 - **Networking RFP Project**: Led a team of 5 to develop a cost-effective network infrastructure solution, saving 10%.
 - **AMC Theatre Database Reverse Engineering**: Improved data management through SQL-based reverse engineering, identifying entity relationships.
-
----
 
 <h2> 🤳 How to reach me:</h2>
 
@@ -42,4 +39,4 @@
 
 Here's a sentence with a footnote. [^1]
 
-[^1]: This is the footnote.
+[^1]: Created by Mustafa Akbar ❤️. All rights reserved.
