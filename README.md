@@ -1,4 +1,3 @@
-## 📄 Resume (Updated: 11/21/2024)
 [📝 Interested in getting to know me more? Download my resume](https://github.com/makbar-io/makbar-io/blob/main/MAkbar_Resume.doc)
 
 ## What Am I Currently Working on? (Updated: 11/21/2024)
