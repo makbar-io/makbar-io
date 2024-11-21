@@ -81,16 +81,10 @@ _November 2018 – May 2019_
 
 ---
 
-## 📫 Contact Me
-- 📧 [Mustafa.Akbar@utah.edu](mailto:Mustafa.Akbar@utah.edu)  
-- 🌐 [LinkedIn](https://linkedin.com/in/Mustafa-Akbar)  
-
----
-
 <h2> 🤳 How to reach me:</h2>
 
 [<img align="left" alt="Mustafa Akbar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/Mustafa-Akbar)
-[<img align="left" alt="Mustafa Akbar | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/yourusername) 
+[<img align="left" alt="Mustafa Akbar | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/MAkbarUS) 
 [<img align="left" alt="Mustafa Akbar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://x.com/MAkbarUS)
 
 <!--
