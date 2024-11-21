@@ -40,4 +40,6 @@ NIST 800-53 Rev5, NIST CSF 2.0, MITRE ATT&CK, COBIT, HIPAA
 [<img align="left" alt="Mustafa Akbar | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:makbar.us@outlook.com)
 
 
-[^1]: Created by Mustafa Akbar ❤️. All rights reserved.
+<br>
+<br>
+*Created by Mustafa Akbar ❤️ All rights reserved.*
