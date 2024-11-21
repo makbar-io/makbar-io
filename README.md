@@ -1,9 +1,5 @@
-
-#### **Mustafa Akbar**
-✉️ [EmailMe](mailto:makbar.us@outlook.com) | 🌐 [LinkedIn](https://linkedin.com/in/Mustafa-Akbar)
-
 ## 📄 Resume (Updated: 11/21/2024)
-[📄 Interested in getting to know me more? Download my resume](https://github.com/makbar-io/makbar-io/blob/main/MAkbar_Resume.doc)
+[📝 Interested in getting to know me more? Download my resume](https://github.com/makbar-io/makbar-io/blob/main/MAkbar_Resume.doc)
 
 ## What Am I Currently Working on? (Updated: 11/21/2024)
 ---
@@ -42,3 +38,8 @@
 [<img align="left" alt="Mustafa Akbar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/Mustafa-Akbar)
 [<img align="left" alt="Mustafa Akbar | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/MAkbarUS) 
 [<img align="left" alt="Mustafa Akbar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://x.com/MAkbarUS)
+
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
