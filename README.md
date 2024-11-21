@@ -1,6 +1,9 @@
 <p align="center" style="font-size: 50px; font-weight: bold;">Mustafa Akbar</p>
 📞 (602) 695-8560 | ✉️ [EmailMe](mailto:makbar.us@outlook.com | 🌐 [LinkedIn](https://linkedin.com/in/Mustafa-Akbar)
 
+## 📄 Resume
+[📄 Download My Resume](https://github.com/makbar-io/makbar-io/blob/main/MAkbar_Resume.doc)
+
 ---
 
 ## 🎓 Education
