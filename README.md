@@ -1,6 +1,6 @@
 
 #### **Mustafa Akbar**
-✉️ [EmailMe] (mailto:makbar.us@outlook.com | 🌐 [LinkedIn](https://linkedin.com/in/Mustafa-Akbar)
+✉️ [EmailMe](mailto:makbar.us@outlook.com) | 🌐 [LinkedIn](https://linkedin.com/in/Mustafa-Akbar)
 
 ## 📄 Resume (Updated: 11/21/2024)
 [📄 Interested in getting to know me more? Download my resume](https://github.com/makbar-io/makbar-io/blob/main/MAkbar_Resume.doc)
