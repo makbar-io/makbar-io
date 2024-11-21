@@ -1,6 +1,9 @@
-[📝 Interested in getting to know me more? Download my resume](https://github.com/makbar-io/makbar-io/blob/main/MAkbar_Resume.doc)
+[📝 Interested in getting to know me more professionally? Download my resume](https://github.com/makbar-io/makbar-io/blob/main/MAkbar_Resume.doc)
 
-## What Am I Currently Working on? (Updated: 11/21/2024)
+## What Am I Currently Working on? [Updated: 11/21/2024]
+- Getting my CompTia Security+
+- Job Hunting for roles in Cybersecurity, Automation, Data Analytics.
+- Upgrading my desktop PC with a new CPU :) 
 
 ## 🖥️ Development Projects
 - **Data Structures & Algorithms Practice** ([GitHub Repo](https://github.com/joshmadakor1/Algorithms-Practice))  
@@ -34,8 +37,7 @@ NIST 800-53 Rev5, NIST CSF 2.0, MITRE ATT&CK, COBIT, HIPAA
 [<img align="left" alt="Mustafa Akbar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/Mustafa-Akbar)
 [<img align="left" alt="Mustafa Akbar | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/MAkbarUS) 
 [<img align="left" alt="Mustafa Akbar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://x.com/MAkbarUS)
+[<img align="left" alt="Mustafa Akbar | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:makbar.us@outlook.com)
 
-
-Here's a sentence with a footnote. [^1]
 
 [^1]: Created by Mustafa Akbar ❤️. All rights reserved.
