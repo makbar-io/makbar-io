@@ -5,18 +5,11 @@
 - Job Hunting for roles in Cybersecurity, Automation, Data Analytics.
 
 ## 🖥️ Development Projects
-- **Data Structures & Algorithms Practice** ([GitHub Repo](https://github.com/joshmadakor1/Algorithms-Practice))  
-- **Full Stack Web App** ([Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964))  
+- **Data Structures & Algorithms Practice** 
+- **Full Stack Web App**  
 - **PowerShell Utilities**  
-  - [Windows EventLog GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)  
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)  
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)  
-  - [File Integrity Monitor](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)  
 - **C# Applications**  
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)  
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)  
 - **Python**  
-  - [Package Delivery Application](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)  
 
 ## 🔑 Certifications
 - [CPR/AED/First Aid](https://ecards.heart.org/api/relay/v1/ecard/getfullpdf?eCardUId=7E3B3211-374D-4547-87D3-2EB31FFE79C6&langId=1)
