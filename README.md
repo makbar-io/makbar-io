@@ -1,5 +1,3 @@
-[📝 Interested in getting to know me more professionally? Download my resume](https://github.com/makbar-io/makbar-io/blob/main/MAkbar_Resume.doc)
-
 ## What Am I Currently Working on? [Updated: 11/21/2024]
 - Getting my CompTia Security+
 - Job Hunting for roles in Cybersecurity, Automation, Data Analytics.
@@ -15,7 +13,6 @@
 - [CPR/AED/First Aid](https://ecards.heart.org/api/relay/v1/ecard/getfullpdf?eCardUId=7E3B3211-374D-4547-87D3-2EB31FFE79C6&langId=1)
 - [OneStream - Application Build for Administrator](https://cdn2.hubspot.net/hubfs/2020381/OneStream-App-Build-Agendav14.pdf)
 - [MySQL](https://www.udemy.com/certificate/UC-MVOMT0QY/)
-- 
 
 ## 🛠️ Technical Skills
 - **Tools**: Domo BI, Python, Power BI, Tableau, MySQL, Oracle, OneStream, Tableau, Lucid Chart
