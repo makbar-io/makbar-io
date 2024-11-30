@@ -3,7 +3,6 @@
 ## What Am I Currently Working on? [Updated: 11/21/2024]
 - Getting my CompTia Security+
 - Job Hunting for roles in Cybersecurity, Automation, Data Analytics.
-- Upgrading my desktop PC with a new CPU :) 
 
 ## 🖥️ Development Projects
 - **Data Structures & Algorithms Practice** ([GitHub Repo](https://github.com/joshmadakor1/Algorithms-Practice))  
